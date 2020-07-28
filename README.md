@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Brett Anda
 
+I am an aspiring web developer that took the course New Media Production and Design at SAIT who's always looking for a new technology to learn! 
+
+I have experience with WordPress, Vue.js, Vagrant, Webpack, Ubuntu, and more
 <!--
 **Brettanda/Brettanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
