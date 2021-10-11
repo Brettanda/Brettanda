@@ -16,7 +16,7 @@ My two current projects that I am working on are a Discord bot that I have named
 
 ---
 
-![Brett Andas Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Brett Andas Github Stats](https://github-readme-stats.vercel.app/api?username=Brettanda&show_icons=true&theme=dark)
 
 [portfolio]: https://brettanda.ca
 [developer_bacon]: https://developerbacon.ca
