@@ -10,9 +10,9 @@ My two current projects that I am working on are a Discord bot that I have named
 
 ## 🌐 Websites
 
-Portfolio: [brettanda.ca][portfolio]
-Developer Bacon: [developerbacon.ca][developer_bacon]
-Discord Bot: [friday-bot.com][discord_bot]
+- Portfolio: [brettanda.ca][portfolio]
+- Developer Bacon: [developerbacon.ca][developer_bacon]
+- Discord Bot: [friday-bot.com][discord_bot]
 
 ---
 
