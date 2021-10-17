@@ -4,7 +4,7 @@ I am an aspiring web developer that took the course New Media Production and Des
 
 I have experience with WordPress, Vue.js, Vagrant, Webpack, Ubuntu, and more.
 
-My two current projects that I am working on are a Discord bot that I have named [Friday](https://github.com/Brettanda/friday-discord-node.js) and a website with articles to help web developers with the same issues that I ran into when I am learning about web development called [Developer Bacon](https://developerbacon.ca).
+My two current projects that I am working on are a Discord bot that I have named [Friday](https://github.com/Brettanda/friday-bot) and a website with articles to help web developers with the same issues that I ran into when I am learning about web development called [Developer Bacon](https://developerbacon.ca).
 
 ---
 
